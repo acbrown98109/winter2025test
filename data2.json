@@ -1,0 +1,13 @@
+{
+    "name": "Stephen Gary Wozniak",
+    "age": 34,
+    "city": "Los Gatos, California",
+    "interests": [
+        "engineering",
+        "technology",
+        "education ",
+        "creativity",
+        "History"
+    ],
+    "is_student": false
+}

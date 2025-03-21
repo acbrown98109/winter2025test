@@ -1,0 +1,15 @@
+{
+    "name": "Douglas Crockford",
+    "age": 34,
+    "city": "San Francisco",
+    "interests": [
+        "programming",
+        "json",
+        "jslint",
+        "Misty",
+        "education",
+        "music",
+        "anti-evil"
+    ],
+    "is_student": false
+}
